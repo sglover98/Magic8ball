@@ -12,4 +12,4 @@ Uses the Yes/No api to answer questions
 
 
 
-<img width="1436" alt="Screen Shot 2022-03-26 at 7 54 37 PM" src="https://user-images.githubusercontent.com/88252222/160261497-d7fe7a02-5551-4bb6-85e5-310877e8eb8c.png">
+<img width="1437" alt="Screen Shot 2022-03-26 at 8 28 23 PM" src="https://user-images.githubusercontent.com/88252222/160261509-38f3420d-9aca-4055-aa81-a2d60ffb642f.png">
