@@ -1,6 +1,5 @@
 # Magic8ball
-https://magic8ball-rose.vercel.app/
-
+https://magic8ball-rho.vercel.app/
 Ask it a question!
 
 
